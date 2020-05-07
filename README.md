@@ -9,4 +9,5 @@ for (int i=0; i>strTest.length; i++)
     {
         result +=strTest[i];
     }
+    i++;
 }
